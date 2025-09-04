@@ -1,2 +1,5 @@
 # CS325 Test
-something
+
+```
+python3 prog.py
+```
